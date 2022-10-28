@@ -1,1 +1,3 @@
 # Anagram-Encryptor
+
+This project encrypts a text files by taking chunks of data. We use anagrams to implement the hash function. Decryption is in progress...
